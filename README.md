@@ -27,6 +27,18 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+Example App: YouTube
+- Being able to preview the video when you hover the cursor on it
+- Adding videos to watch later
+
+Example App: Twitter
+- Changing the background color of the feed
+- Seeing trending topics
+
+Example App: Discord
+- Interact with many people in a channel
+- Create our own community
+
 ## Notes
 
 Describe any challenges encountered while building the app.
