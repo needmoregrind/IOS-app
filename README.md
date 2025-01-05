@@ -39,9 +39,9 @@ Example App: Discord
 - Interact with many people in a channel
 - Create our own community
 
-## Notes
+An app idea that I would like to build: LearnTogether
 
-Describe any challenges encountered while building the app.
+LearnTogether is an educational platform designed to enhance collaborative learning. Students can create or join study groups based on shared courses, majors, or academic interests. The features I would like to implement are group discussions, virtual study rooms with video and audio capabilities, and interactive live whiteboards for real-time problem solving. 
 
 ## License
 
